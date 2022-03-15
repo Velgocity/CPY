@@ -8,6 +8,7 @@ using namespace std;
 #define ary array
 #define vec vector
 #define flt float
+#define dbl double
 #define chr char;
 #define bl bool;
 #define sng using
@@ -19,3 +20,8 @@ using namespace std;
 #define pub public
 #define pir private
 #define pro protected
+#define arg int argc, char** argv
+#define vd void
+#define byt byte
+#define lam auto
+#define stdlib using namespace stdLib;

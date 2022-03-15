@@ -21,3 +21,8 @@ int stringToInt(string variable) {
     int output = std::stoi(variable);
     return output;
 }
+
+double stringToFloat(string variable) {
+    double output = std::stod(variable);
+    return output;
+}
